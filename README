@@ -1,0 +1,15 @@
+Aleatoric Music Generator
+
+1. Click to make circle
+2. Hold to increase radius
+2. Drag to give circle constant velocity
+3. Circles collide with walls
+4. Circles collide with circles
+5. On collision a sound is emmited. Its freq is a func of its radius
+6. Collision reduces velocity
+
+TODO
+
+ - Project Architecture
+ - Setup Webpack
+ -
